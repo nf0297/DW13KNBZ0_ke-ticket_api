@@ -5,7 +5,7 @@ module.exports = {
     return queryInterface.bulkInsert('users', [
       {
         name: "Freya Allan",
-        phone: "08583284374",
+        phone: "0812341",
         dob: "2001-09-06",
         email: "freya@freya.com",
         username: "freya",
@@ -16,7 +16,7 @@ module.exports = {
       },
       {
         name: "Aimer",
-        phone: "08583284373",
+        phone: "0812342",
         dob: "1990-07-09",
         email: "aimer@aimer.com",
         username: "aimer",
@@ -27,7 +27,7 @@ module.exports = {
       },
       {
         name: "Lee Ji-eun",
-        phone: "08583284372",
+        phone: "0812343",
         dob: "1993-05-16",
         email: "iu@iu.com",
         username: "iu",
