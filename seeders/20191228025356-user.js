@@ -10,7 +10,7 @@ module.exports = {
         email: "freya@freya.com",
         username: "freya",
         password: "freya",
-        image: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhUSEhIVFRUVFRUVFRUVEBUPFxUVFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQFysdHx0rLS0rLSsrLS0rLS0tLS0tKy0tLS0rLS0tLS0tLS0tLSsrLSstLS0tNy0tNzQtKy03Lf/AABEIAOMA3gMBIgACEQEDEQH/",
+        image: "https://external-preview.redd.it/dWsI-_W4DacNR30L5PAdLrbPUdtCKE7bf0yQzXaJlcs.jpg?auto=webp&s=90eb47263d70f9b87f8347dde111d1d6bb2f749d",
         createdAt: new Date(),
         updatedAt: new Date()
       },
@@ -35,7 +35,18 @@ module.exports = {
         image: "https://asset.kompas.com/crops/bw0QAj68dglRsBgxXbWXflA79TM=/82x0:886x536/750x500/data/photo/2018/05/08/1328492635.jpg",
         createdAt: new Date(),
         updatedAt: new Date()
-      }
+      },
+      {
+        name: "Chelsea Islan",
+        phone: "0812345",
+        dob: "1990-07-09",
+        email: "chelsea@chelsea.com",
+        username: "chelsea",
+        password: "chelsea",
+        image: "https://cdn1-production-images-kly.akamaized.net/DKUKWoMqq7G4yaYEoAPYqu8Mf7U=/67x0:1080x1351/640x853/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2154934/original/024050900_1525418931-29096108_954510488038532_9010822875698954240_n.jpg",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ], {});
   },
 
