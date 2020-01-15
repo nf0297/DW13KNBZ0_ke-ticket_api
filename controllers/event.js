@@ -47,7 +47,8 @@ exports.showEventbyID = (req, res) => {
 
 exports.addNewEvent = (req, res) => {
     Event.create(req.body)
-    .then(event => res.send(event))
+    .then(event => {
+        res.send(event)})
     .catch(err => res.send(err))
 }
 
