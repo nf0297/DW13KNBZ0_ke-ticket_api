@@ -43,7 +43,7 @@ module.exports = {
         email: "chelsea@chelsea.com",
         username: "chelsea",
         password: "chelsea",
-        image: "https://cdn1-production-images-kly.akamaized.net/DKUKWoMqq7G4yaYEoAPYqu8Mf7U=/67x0:1080x1351/640x853/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2154934/original/024050900_1525418931-29096108_954510488038532_9010822875698954240_n.jpg",
+        image: "https://cdn-brilio-net.akamaized.net/news/2016/08/26/92772/435915-chelsea-islan.jpg",
         createdAt: new Date(),
         updatedAt: new Date()
       },
